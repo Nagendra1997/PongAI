@@ -1,5 +1,5 @@
 # PongAI
-AI engine for pong from scratch
+AI engine for pong from scratch.
 No "learning". Just the machine and an understanding of the game Physics. 
 Not as easy as I thought to develop an optimal solution.
 
@@ -9,6 +9,5 @@ Not as easy as I thought to develop an optimal solution.
 based on http://nifty.stanford.edu/2018/guerzhoy-pong-ai-tournament/
 
 Dependencies:
-PyGame
-Python 2
-Run PongAIvAI keeping it in the same folder as the other 2 files (student_ai.py and chaser_ai.py)
+
+PyGame,Python2,Run PongAIvAI keeping it in the same folder as the other 2 files (student_ai.py and chaser_ai.py)
